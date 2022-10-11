@@ -1,4 +1,4 @@
-# I2C-API
+# I2C-API [![Build Status](https://app.travis-ci.com/Galjente/I2C-API.svg?branch=main)](https://app.travis-ci.com/Galjente/I2C-API)
 This is simple I2C api interfaces with basic functionality. This API was made for usage in Raspberry PI.
 
 ## Technologies
