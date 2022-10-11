@@ -19,7 +19,7 @@ This is simple I2C api interfaces with basic functionality. This API was made fo
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Galjente/I2C-API/tags). 
 
-## License
+## License ![GitHub](https://img.shields.io/github/license/Galjente/I2C-API)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Authors
